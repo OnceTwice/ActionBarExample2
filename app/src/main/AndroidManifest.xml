@@ -15,6 +15,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.bit2016.actionbarexample2.ActionItemsActivity" />
+        <activity android:name="com.bit2016.actionbarexample2.ActionModesActivity" />
+        <activity android:name="com.bit2016.actionbarexample2.ActionSearchActivity" />
     </application>
 
 </manifest>
